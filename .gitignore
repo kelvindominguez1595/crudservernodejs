@@ -1,0 +1,4 @@
+node_modules/
+# No subir las configuraciones iniciales
+.env
+.package-lock.json
